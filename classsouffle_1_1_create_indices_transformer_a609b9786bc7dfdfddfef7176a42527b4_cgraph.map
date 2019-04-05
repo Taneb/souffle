@@ -1,0 +1,11 @@
+<map id="souffle::CreateIndicesTransformer::createIndices" name="souffle::CreateIndicesTransformer::createIndices">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_node.html#a8b93371163c782cbebc1ca966e8ff063" title="Apply the mapper to all child nodes. " alt="" coords="317,42,494,69"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_program.html#a700bc589281fd3f2478b074c3134d450" title="Get main program. " alt="" coords="327,93,483,135"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_create_indices_transformer.html#aabbc83241681f4445b8ea09876636628" title="souffle::CreateIndicesTransformer\l::rewriteScan" alt="" coords="288,159,523,200"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_nested_operation.html#aecd9e1a082f7ad54bea98bd6a6825352" title="Get nested operation. " alt="" coords="571,5,781,47"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_relation_search.html#a75a101a526f46d3baa7971622c6b596b" title="Get search relation. " alt="" coords="578,71,774,112"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="829,166,956,193"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ram_search.html#ad38884443c4c4eff4d86c196ec9cf436" title="Get identifier. " alt="" coords="603,188,749,229"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_relation.html#a4b8c28fa5818f930e0d3149cd4a50b8b" title="souffle::RamRelation\l::getArity" alt="" coords="601,253,751,295"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_nested_operation.html#ae6a3beff0632964944db3ffbb12fb88e" title="Get profile text. " alt="" coords="571,319,781,360"/>
+</map>

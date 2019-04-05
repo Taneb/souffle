@@ -1,0 +1,16 @@
+<map id="souffle::RamAggregate::addCondition" name="souffle::RamAggregate::addCondition">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_search.html#ad38884443c4c4eff4d86c196ec9cf436" title="Get identifier. " alt="" coords="232,5,379,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_aggregate.html#a28ed5e4b2a9fba7c96354d879ee7fa76" title="Get indexable element. " alt="" coords="221,132,389,173"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="1025,10,1152,37"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_const_value_analysis.html#a29595aed1e1a39b4dd0c287869cf4d8a" title="constant value " alt="" coords="437,228,663,269"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ram_expression_level_analysis.html#a12a51cb401cb99de1399b1354a453c43" title="Get level. " alt="" coords="449,163,651,204"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ram_expression.html#aabdf99a09d7c349c4470bdd55c90d0c3" title="Create clone. " alt="" coords="465,97,635,139"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_intrinsic_operator.html#ae3ca85e8378191a53de7e03f31e1d5dc" title="Get argument values. " alt="" coords="726,163,933,204"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a3194e440e935d0d6089f8fa6bf405086" title="A function packing a tuple of the given arity into a reference. " alt="" coords="778,294,881,321"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ram_user_defined_operator.html#a24d0c73bb899ad911c180d1b900fb9cc" title="Get argument values. " alt="" coords="711,228,948,269"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1017,170,1161,197"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1detail_1_1_record_map.html#a50da37d2493c58782ba088e82d4d3708" title="Packs the given tuple – and may create a new reference if necessary. " alt="" coords="996,287,1181,328"/>
+<area shape="rect" id="node10" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="1229,294,1385,321"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ram_element_access.html#a44ea48b193eff166a57ec06afd594295" title="Get identifier. " alt="" coords="730,32,929,73"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ram_pack_record.html#afb91f1eff5cc6ca8390d2370d6c5140e" title="Get arguments. " alt="" coords="743,97,916,139"/>
+</map>

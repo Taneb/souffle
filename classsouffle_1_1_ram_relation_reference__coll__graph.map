@@ -1,0 +1,4 @@
+<map id="souffle::RamRelationReference" name="souffle::RamRelationReference">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_node.html" title="RamNode is a superclass for all RAM IR classes. " alt="" coords="636,145,776,355"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_relation.html" title="A RAM Relation in the RAM intermediate representation. " alt="" coords="422,432,633,715"/>
+</map>

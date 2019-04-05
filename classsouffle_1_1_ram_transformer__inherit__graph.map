@@ -1,0 +1,5 @@
+<map id="souffle::RamTransformer" name="souffle::RamTransformer">
+<area shape="rect" id="node2" href="$classsouffle_1_1_convert_existence_checks_transformer.html" title="{souffle::ConvertExistence\lChecksTransformer\n|# rcla\l# rcva\l# rvla\l|+ convertExistenceChecks()\l+ getName()\l# transform()\l}" alt="" coords="5,175,208,325"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_create_indices_transformer.html" title="{souffle::CreateIndicesTransformer\n|# rcva\l# rvla\l|+ createIndices()\l+ getIndexElement()\l+ getName()\l+ rewriteScan()\l# transform()\l}" alt="" coords="232,175,467,325"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_level_conditions_transformer.html" title="Hoists the conditions to the earliest point in the loop nest where they can be evaluated. " alt="" coords="491,189,663,311"/>
+</map>
